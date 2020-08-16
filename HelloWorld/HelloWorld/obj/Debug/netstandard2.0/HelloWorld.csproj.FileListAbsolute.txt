@@ -1,0 +1,14 @@
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/ref/HelloWorld.dll
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/ref/HelloWorld.dll
+/Users/estitweg/Documents/other/Code/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
